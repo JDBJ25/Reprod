@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1740427557 source:c:\users\jonathan.bautista\desktop\programacion c++\reprodu\main.cpp
+	<gtk/gtk.h>
+	"reproductor.h"
+
+1740427564 c:\users\jonathan.bautista\desktop\programacion c++\reprodu\reproductor.h
+	<gtk/gtk.h>
+	<vector>
+	<string>
+	<thread>
+
+1740428205 source:c:\users\jonathan.bautista\desktop\programacion c++\reprodu\reproductor.cpp
+	"reproductor.h"
+	<iostream>
+	<fstream>
+	<mpg123.h>
+	<ao/ao.h>
+	<thread>
+	<mutex>
+
